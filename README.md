@@ -1,2 +1,2 @@
-HI, user here is all leetcode problem solution.
-
+This repository contains well-documented solutions to various LeetCode problems. 
+Each solution is categorized by topic and difficulty level, aiming to help programmers learn and enhance their coding skills.

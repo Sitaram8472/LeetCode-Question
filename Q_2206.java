@@ -25,7 +25,7 @@ public class Q_2206 {
     }
     Q_2206 solution = new Q_2206();
     System.out.println(solution.divideArray(nums));
-
+    sc.close();
   }
 
 }
