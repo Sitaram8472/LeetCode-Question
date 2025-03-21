@@ -1,4 +1,4 @@
-public class Q344 {
+public class Q_344 {
   class Solution {
     public void reverseString(char[] s) {
         originalstring(s);
