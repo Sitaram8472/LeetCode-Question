@@ -56,6 +56,7 @@ public class Q_2529 {
         }
       }
       return n - idx;
+      
     }
   
     public static void main(String[] args) {
