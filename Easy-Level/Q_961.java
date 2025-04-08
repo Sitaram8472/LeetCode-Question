@@ -14,6 +14,7 @@ public class Q_961 {
 
         return -1;
 
+        // method 2
         
         // Map<Integer, Integer> map = new HashMap<>();
         // for(int num : nums){
