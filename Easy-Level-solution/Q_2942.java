@@ -1,4 +1,4 @@
-class Solution {
+class Q_2942 {
     public List<Integer> findWordsContaining(String[] words, char x) {
         int n = words.length;
         ArrayList<Integer> list = new ArrayList<>();
