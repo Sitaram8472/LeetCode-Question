@@ -9,6 +9,7 @@ public class Q_258 {
     if (n < 10) {
       return n;
     }
+    
 
     while (n > 9) {
       int ans = 0;
