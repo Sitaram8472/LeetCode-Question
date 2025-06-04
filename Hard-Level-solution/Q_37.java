@@ -15,9 +15,10 @@ public class Q_37 {
         return false;
       }
     }
-    
+
 
     // grid
+    
 
     int sr = (row / 3) * 3;
     int sc = (col / 3) * 3;
