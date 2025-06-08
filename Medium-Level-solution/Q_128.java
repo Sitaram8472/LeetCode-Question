@@ -1,4 +1,3 @@
-import java.util.*;
 public class Q_128 {
   public int longestConsecutive(int[] nums) {
     if (nums.length == 0) {
