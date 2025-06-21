@@ -17,7 +17,6 @@ public class Q_2544 {
     // secondsum += arr[i];
     // }
     // }
-
     // return firstsum-secondsum;
 
     // version code
