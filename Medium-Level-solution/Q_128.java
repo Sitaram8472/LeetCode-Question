@@ -4,7 +4,7 @@ public class Q_128 {
       return 0;
     }
     HashSet<Integer> set = new HashSet<>();
-    for (int num : nums) {
+    for (int num : nums){
       set.add(num);
     }
     int max = 1;
