@@ -18,8 +18,7 @@ public class Q_258 {
         ans += rem;
         n /= 10;
       }
-      n = ans;
-
+      n = ans;     
     }
     return n;
   }
