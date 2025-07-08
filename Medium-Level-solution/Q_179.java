@@ -6,7 +6,7 @@ public class Q_179 {
         }
 
 
-        Arrays.sort(strnum, (a, b) -> (ab+).compareTo(a+b));
+        Arrays.sort(strnum, (a, b) -> (b+a).compareTo(a+b));
 
         if(strnum[0].equals("0")){
             return "0";
